@@ -41,8 +41,8 @@ No framework worship, no drag-drop magic. I build systems from the ground up.
     <summary><b>📊 GitHub Attributes</b></summary>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kisetsu15/Kisetsu15/refs/heads/output/output.png">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisetsu15&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&icon_color=d6d0d0&title_color=d6d0d0&text_color=d6d0d0" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kisetsu15&theme=dark&hide_border=true&text_color=d6d0d0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kisetsu15&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&icon_color=d6d0d0&title_color=d6d0d0&text_color=d6d0d0&ring_color=205EB3&custom_title=Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kisetsu15&theme=dark&hide_border=true&text_color=d6d0d0&ring=5EF6FF&currStreakLabel=205EB3&fire=205EB3" />
 </p>
 </details>
 
