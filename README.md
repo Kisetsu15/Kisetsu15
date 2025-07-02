@@ -5,7 +5,7 @@
 
 
 
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG54bDJkYWJ3b3k0ODg5MGdoOWp5OW9tYjFnazgzMGVmN3FwYXUzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.gif" height="100" /></a>
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG54bDJkYWJ3b3k0ODg5MGdoOWp5OW9tYjFnazgzMGVmN3FwYXUzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.gif" height="100" width="100"/></a>
 
 Hi, I’m a self-taught indie dev who enjoys crafting immersive **horror games** and building **tools that make dev life easier**.  
 I believe in making raw, fast, no-bullshit tools and games — shipped over perfect.
@@ -47,7 +47,7 @@ No framework worship, no drag-drop magic. I build systems from the ground up.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kisetsu15/Kisetsu15/refs/heads/output/output.png">
   <img src="https://github-readme-stats.vercel.app/api?username=Kisetsu15&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&icon_color=d6d0d0&title_color=d6d0d0&text_color=d6d0d0" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kisetsu15&theme=dark&hide_border=true& ">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kisetsu15&theme=dark&hide_border=true&" />
 </p>
 </details>
 
