@@ -53,8 +53,6 @@ No framework worship, no drag-drop magic. I build systems from the ground up.
     _First-person horror with no HUD, tight atmosphere, and haunting story beats._
 - 🛠️ **ProtonDB**      
     _A custom NoSQL database — fast, minimal, and built from scratch._
-- 📝 **XenoC**      
-    _A custom C like programming language — fast and easy to use._
 
 </details>
 
