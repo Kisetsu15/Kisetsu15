@@ -46,16 +46,6 @@ No framework worship, no drag-drop magic. I build systems from the ground up.
 </p>
 </details>
 
-<details>
-    <summary><b>🧪 Active Projects</b></summary>
-
-- 🎮 **Buried Alive**  
-    _First-person horror with no HUD, tight atmosphere, and haunting story beats._
-- 🛠️ **ProtonDB**      
-    _A custom NoSQL database — fast, minimal, and built from scratch._
-
-</details>
-
 ---
 
 > ⚠️ This is just the beginning.  
