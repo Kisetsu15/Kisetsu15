@@ -9,11 +9,11 @@ Hi, I’m a self-taught indie dev who enjoys crafting immersive **games** and bu
 I believe in making raw, fast, no-bullshit tools and games — shipped over perfect.
 
 No framework worship, no drag-drop magic. I build systems from the ground up.
-> **Focus areas:** Game feel, Enemy AI, CLI tools, System-level design.
+> **Focus areas:** Game architecture, CLI tools, System-level design.
 
 ---
 
-### ⚙️ Skill Inventory
+### Skills Stashed
 
 <table align="center">
   <tr>
@@ -21,13 +21,13 @@ No framework worship, no drag-drop magic. I build systems from the ground up.
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-      <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;" />
-      <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" style="padding-right:10px;" />
+      <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" style="padding-right:10px;" />
+      <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
       <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
@@ -39,16 +39,12 @@ No framework worship, no drag-drop magic. I build systems from the ground up.
 ---
 
 <details>
-    <summary><b>📊 GitHub Attributes</b></summary>
+    <summary><b>GitHub Stats</b></summary>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kisetsu15/Kisetsu15/refs/heads/output/output.png">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kisetsu15&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&icon_color=d6d0d0&title_color=d6d0d0&text_color=d6d0d0&ring_color=205EB3&custom_title=Stats" width="375" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Kisetsu15&theme=dark&hide_border=true&text_color=d6d0d0&ring=5EF6FF&currStreakLabel=205EB3&fire=205EB3" width="400"/>
 </p>
 </details>
 
 ---
-
-> ⚠️ This is just the beginning.  
 > 🔥 I don't make projects to impress — I make them to **ship**.
 
