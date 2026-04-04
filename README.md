@@ -41,7 +41,7 @@ No framework worship, no drag-drop magic. I build systems from the ground up.
 <details>
     <summary><b>GitHub Stats</b></summary>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kisetsu15&theme=dark&hide_border=true&text_color=d6d0d0&ring=5EF6FF&currStreakLabel=205EB3&fire=205EB3" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kisetsu15&theme=dark&hide_border=true&text_color=d6d0d0&ring=5EF6FF&currStreakLabel=205EB3&fire=205EB3" width="400"/>
 </p>
 </details>
 
