@@ -1,6 +1,6 @@
 <!-- Animated Intro Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=open+sans&size=22&duration=3000&pause=1000&color=5EF6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Dharshik+%F0%9F%91%8B;Game+Dev+%7C+Systems+Programmer+%7C+Tools+Engineer;Building+Games+%2B+Custom+Devtools+From+Scratch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=open+sans&size=22&duration=3000&pause=1000&color=5EF6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Kisetsu+%F0%9F%91%8B;Game+Dev+%7C+Systems+Programmer+%7C+Tools+Engineer;Building+Games+%2B+Custom+Devtools+From+Scratch" alt="Typing SVG" />
 </p>
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG54bDJkYWJ3b3k0ODg5MGdoOWp5OW9tYjFnazgzMGVmN3FwYXUzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.gif" height="100" width="100"/></a>
